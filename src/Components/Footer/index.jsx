@@ -3,8 +3,8 @@ import "./index.css"
 
 const Footer = () => {
   return (
-    <div>Footer</div>
+    <footer>Footer</footer>
   )
-}
+}       
 
 export default Footer

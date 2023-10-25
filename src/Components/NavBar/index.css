@@ -3,9 +3,15 @@ button{
     border: none;
 }
 
+#navbar{
+    position: fixed;
+    width: 100%;
+}
+
 nav{
     display: flex;
     justify-content: right;
+    justify-self: flex-start;
 }
 .header {
     margin-bottom: 10px;
@@ -25,6 +31,7 @@ nav{
   /* The progress bar (scroll indicator) */
   .progress-bar {
     height: 8px;
-    background: #04AA6D;
+    background: black;
     width: 0%;
+    /* border: 1px white solid; */
   }

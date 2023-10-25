@@ -4,11 +4,19 @@ import { Link } from 'react-router-dom';
 import "./index.css"
 import GitHubIcon from '@mui/icons-material/GitHub';
 import InsertDriveFileIcon from '@mui/icons-material/InsertDriveFile';
-import "./index.js"
+
 
 const NavBar = () => {
+  window.onscroll = function() {myFunction()};
+
+function myFunction() {
+  var winScroll = document.body.scrollTop || document.documentElement.scrollTop;
+  var height = document.documentElement.scrollHeight - document.documentElement.clientHeight;
+  var scrolled = (winScroll / height) * 100;
+  document.getElementById("myBar").style.width = scrolled + "%";
+} 
   return (
-    <>
+    <div id="navbar">
     <nav>
         <Link to="https://www.linkedin.com/in/aksharait/">
             <button>
@@ -31,7 +39,7 @@ const NavBar = () => {
     <div class="progress-bar" id="myBar"></div>
   </div>
 </div>
-    </>
+    </div>
   )
 }
 

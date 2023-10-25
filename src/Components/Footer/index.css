@@ -1,4 +1,8 @@
-div{
-    color:white;
-    justify-self: end;
+footer{
+    margin-bottom: 0;
+    width: 100%;
+    margin-top: auto;
+    padding-bottom: 5px;
+    color: white;
+    justify-self: flex-end;
 }
