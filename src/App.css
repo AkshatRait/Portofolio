@@ -1,4 +1,6 @@
-#root{
+@import url('https://fonts.googleapis.com/css2?family=Edu+TAS+Beginner:wght@500&family=Orbitron&display=swap');
+
+#app-container{
   display: flex;
   flex-direction: column;
   height: 100%;
@@ -7,9 +9,11 @@
 
 
 *{
+  font-family: 'Edu TAS Beginner', cursive;
   box-sizing: border-box;
 }
 
 html,body{
   height: 100%;
+  margin: 0;
 }

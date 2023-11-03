@@ -4,5 +4,10 @@ footer{
     margin-top: auto;
     padding-bottom: 5px;
     color: white;
-    justify-self: flex-end;
+
+    display: flex;
+    align-items: center;
+    margin:auto;
+    justify-content: space-around;
+    border-top: solid 2px #1d1d1d;;
 }
