@@ -1,8 +1,21 @@
-# React + Vite
+# Akshat Rait - Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to my portfolio! I'm Akshat Rait, an aspiring software engineer with a strong passion for technology and a desire to make a mark in the dynamic field of software engineering.
 
-Currently, two official plugins are available:
+## About Me
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- 🎓 **Education:** Recent high school graduate with a solid foundation in computer science, including programming languages, algorithms, and problem-solving skills.
+
+- 🚀 **Per Scholas Bootcamp:** Graduate of the Per Scholas Software Engineering Bootcamp, equipped with practical knowledge in web development, software engineering best practices, and real-world project experience.
+
+- 🌟 **Passion for Tech:** I'm dedicated to staying up-to-date with the latest tech trends, from web development frameworks to emerging technologies like AI and machine learning.
+
+## Live Portfolio Website
+
+Check out my live portfolio website: ([https://your-portfolio-website-link.com](https://portfolio-gv9k.onrender.com/))
+
+## Contact
+
+I'm excited to explore opportunities and collaborate on tech projects. Feel free to reach out to me at Akshat Rait on all socials.
+
+Let's shape the future of technology together! 🚀
